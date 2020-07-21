@@ -1,0 +1,21 @@
+{
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "3c71032d-0fe4-4ab1-bf9f-5b652568ea3d",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "6f634800-2a23-40cf-9722-1af8594e0c3a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
